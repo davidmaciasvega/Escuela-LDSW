@@ -1,4 +1,4 @@
-Repositorio, para el desarrollo del proyecto de sitio web con contenido educativo. 
+Repositorio, para el desarrollo del proyecto de sitio web con contenido educativo (Saber en Linea). 
 
 Jira Dash
 https://cec369.atlassian.net/jira/software/projects/SIT/boards/6/backlog?epics=visible&version=10000&versions=visible
