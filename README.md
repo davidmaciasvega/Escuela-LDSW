@@ -44,6 +44,4 @@ Para ejecutar la aplicación de manera local, sigue estos pasos:
 - [Vite](https://vitejs.dev/): Un herramienta de compilación de front-end rápida que utiliza ESM nativo (ECMAScript Modules) para un desarrollo rápido.
 
 # Integrantes
-David Macías Vega
-Irma Cecilia Barajas Helguera
-Jesús Alejandro Sainz Maldonado
+David Macías Vega - Irma Cecilia Barajas Helguera - Jesús Alejandro Sainz Maldonado
