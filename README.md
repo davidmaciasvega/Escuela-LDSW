@@ -1,3 +1,6 @@
+# Actividad - Proyecto 2 - Saber en Línea
+
+
 Repositorio, para el desarrollo del proyecto de sitio web con contenido educativo (Saber en Linea). 
 
 Jira Dash
@@ -39,3 +42,8 @@ Para ejecutar la aplicación de manera local, sigue estos pasos:
 - [React](https://reactjs.org/): Una biblioteca de JavaScript para construir interfaces de usuario.
 - [React Router DOM](https://reactrouter.com/): Una colección de navegadores de rutas de React que te permite manejar las rutas en tu aplicación web.
 - [Vite](https://vitejs.dev/): Un herramienta de compilación de front-end rápida que utiliza ESM nativo (ECMAScript Modules) para un desarrollo rápido.
+
+# Integrantes
+David Macías Vega
+Irma Cecilia Barajas Helguera
+Jesús Alejandro Sainz Maldonado
