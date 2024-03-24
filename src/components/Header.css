@@ -1,0 +1,75 @@
+
+header {
+  background-color: #f0f0f0; 
+  padding: 0px; 
+  display: flex; 
+  justify-content: space-around; 
+  align-items: center; 
+  width: 100%;
+}
+
+
+
+.logo img {
+  width: 50px; 
+  margin-left: 50px;
+}
+
+
+.search-bar {
+  display: flex; 
+  align-items: center; 
+  max-width: 800px; 
+  margin: 0 auto;
+  
+}
+
+.search-bar input {
+  padding: 8px ; 
+  width: 800px; 
+  font-size: 16px; 
+  border: 1px solid #ccc;
+  border-radius: 5px; 
+  text-align: left;
+}
+
+.search-bar button {
+  padding: 8px 15px; 
+  background-color: #007bff; 
+  color: #fff; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
+}
+
+
+.login-btn {
+  padding: 8px 15px; 
+  background-color: #28a745; 
+  color: #fff;
+  border: none; 
+  border-radius: 5px;
+  cursor: pointer; 
+  margin: 10px;
+}
+
+.user-icon img {
+  width: 30px; 
+  height: auto;
+  margin-right:15px ;
+  
+}
+.search-bar button {
+  padding: 8px 12px;
+  background-color: #f0f0f0; 
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.search-bar button img {
+  width: 22px; 
+  height: auto; 
+  padding: 0px;
+}
