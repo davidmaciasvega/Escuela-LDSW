@@ -1,7 +1,7 @@
 
 export function LibrosRecientes() {
   const libros = [
-    { titulo: 'Libro A', autor: 'Autor A', tipoLectura: 'Ficción', añoPublicacion: 2022, imagen: '/ruta/imagenA.jpg' },
+    { titulo: 'Cien Años de soledad', autor: 'Gabriel Garcia Marquez', tipoLectura: 'Novela', añoPublicacion: 2022, imagen: '/img/cien años de soledad.JPG' },
     { titulo: 'Libro B', autor: 'Autor B', tipoLectura: 'No ficción', añoPublicacion: 2023, imagen: '/ruta/imagenB.jpg' },
     { titulo: 'Libro C', autor: 'Autor C', tipoLectura: 'Ficción', añoPublicacion: 2024, imagen: '/ruta/imagenC.jpg' },
     { titulo: 'Libro D', autor: 'Autor D', tipoLectura: 'No ficción', añoPublicacion: 2025, imagen: '/ruta/imagenD.jpg' },
