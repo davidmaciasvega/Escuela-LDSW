@@ -1,7 +1,7 @@
 
 export function LibrosInfantiles() {
   const libros = [
-    { titulo: 'Libro 1', autor: 'Autor 1', tipoLectura: 'Ficción', añoPublicacion: 2020, imagen: '/ruta/imagen1.jpg' },
+    { titulo: 'Harry Potter', autor: 'J. K. Rowling', tipoLectura: 'Ficción', añoPublicacion: 2020, imagen: '/img/harryp.jpg' },
     { titulo: 'Libro 2', autor: 'Autor 2', tipoLectura: 'No ficción', añoPublicacion: 2019, imagen: '/ruta/imagen2.jpg' },
     { titulo: 'Libro 3', autor: 'Autor 3', tipoLectura: 'Ficción', añoPublicacion: 2021, imagen: '/ruta/imagen3.jpg' },
     { titulo: 'Libro 4', autor: 'Autor 4', tipoLectura: 'Ficción', añoPublicacion: 2022, imagen: '/ruta/imagen4.jpg' },
