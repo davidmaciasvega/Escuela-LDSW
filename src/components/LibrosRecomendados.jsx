@@ -1,15 +1,15 @@
 
 export function LibrosRecientes() {
   const libros = [
-    { titulo: 'Cien Años de soledad', autor: 'Gabriel Garcia Marquez', tipoLectura: 'Novela', añoPublicacion: 2022, imagen: '/img/cien años de soledad.JPG' },
-    { titulo: 'Libro B', autor: 'Autor B', tipoLectura: 'No ficción', añoPublicacion: 2023, imagen: '/ruta/imagenB.jpg' },
-    { titulo: 'Libro C', autor: 'Autor C', tipoLectura: 'Ficción', añoPublicacion: 2024, imagen: '/ruta/imagenC.jpg' },
-    { titulo: 'Libro D', autor: 'Autor D', tipoLectura: 'No ficción', añoPublicacion: 2025, imagen: '/ruta/imagenD.jpg' },
-    { titulo: 'Libro E', autor: 'Autor E', tipoLectura: 'Ficción', añoPublicacion: 2026, imagen: '/ruta/imagenE.jpg' },
-    { titulo: 'Libro F', autor: 'Autor F', tipoLectura: 'No ficción', añoPublicacion: 2027, imagen: '/ruta/imagenF.jpg' },
-    { titulo: 'Libro G', autor: 'Autor G', tipoLectura: 'Ficción', añoPublicacion: 2028, imagen: '/ruta/imagenG.jpg' },
-    { titulo: 'Libro H', autor: 'Autor H', tipoLectura: 'No ficción', añoPublicacion: 2029, imagen: '/ruta/imagenH.jpg' },
-    { titulo: 'Libro I', autor: 'Autor I', tipoLectura: 'Ficción', añoPublicacion: 2030, imagen: '/ruta/imagenI.jpg' },
+    { titulo: 'El homre que quiso ser Rey', autor: 'Rudyard Kipling', tipoLectura: 'Cuento', añoPublicacion: 1888, imagen: '/public/img/libros/recomendados/el hombre que quiso ser rey.jpg' },
+    { titulo: 'Voluntad', autor: 'Miguel de Unamuno', tipoLectura: 'Novela', añoPublicacion: 1902, imagen: 'public/img/libros/recomendados/voluntad.jpg' },
+    { titulo: 'Don Carlos Infante de España', autor: 'Friedrich Schiller', tipoLectura: 'Teatro', añoPublicacion: 1787, imagen: '/ruta/imagenC.jpg' },
+    { titulo: 'Los Primeros Principios', autor: 'Herbert Spencer', tipoLectura: 'Filosofía', añoPublicacion: 1862, imagen: 'public/img/libros/recomendados/los primeros principios.jpg' },
+    { titulo: 'Eutidemo o El Disputador', autor: 'Platón', tipoLectura: 'Filosofía', añoPublicacion: 1871, imagen: 'public/img/libros/recomendados/eutidemo o el disputador.jpg' },
+    { titulo: 'Breve Antología Literaria', autor: 'Varios', tipoLectura: 'Antologia', añoPublicacion: 1940, imagen: 'public/img/libros/recomendados/Breve antologia literaria.jpg' },
+    { titulo: 'Ciudad Alfiler', autor: 'María Martinez', tipoLectura: 'Político', añoPublicacion: 1998, imagen: 'public/img/libros/recomendados/ciudad alfiler.jpg' },
+    { titulo: 'Proezas del Amor', autor: 'Roberto Sánchez', tipoLectura: 'Novela', añoPublicacion: 2015, imagen: 'public/img/libros/recomendados/proezas del amor.jpg' },
+    { titulo: 'A Sangre y Fuego', autor: 'Javier Morales', tipoLectura: 'Novela', añoPublicacion: 2009, imagen: 'public/img/libros/recomendados/a sangre y fuego.jpg' },
   ];
   return (
     <div className="libros-recientes">
