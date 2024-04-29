@@ -12,6 +12,11 @@ export function Inicio() {
         <h2>Libros Recomendados</h2>
         <LibrosRecomendados />
       </div>
+      {}
+      <div className="agregar-libro">
+       <h2> Cien Años de soledad</h2>
+      {}
+</div>
       <div className="libros-infantiles">
         <h2>Libros Infantiles</h2>
         <LibrosInfantiles />
